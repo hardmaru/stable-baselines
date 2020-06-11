@@ -54,6 +54,7 @@ Documentation:
 - Fixed ``train_mountaincar`` description
 - Added imitation baselines project
 - Updated install instructions
+- Updated documentation to reflect new Projects (@hardmaru)
 
 
 Release 2.10.0 (2020-03-11)
